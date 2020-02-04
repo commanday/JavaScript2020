@@ -12,16 +12,16 @@
 
 *JavaScript is a popular language.Let's maintain it together and make it more perfect!*
 
-## compilers
+## Compilers
 
 JS：https://www.runoob.com/try/try.php?filename=tryjs_alert
 
-## others(1)
+## Other
 *This page was written by* __Markdown__.
 
 __URL:https://github.com/commanday/javascript2020/tree/master__
 
-## others(2)
+## Name list
 __Author:__
 
 *commanday*
