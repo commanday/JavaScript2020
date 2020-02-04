@@ -2,7 +2,7 @@
 <html>
 <head> 
 <meta charset="utf-8"> 
-<title>菜鸟教程(runoob.com)</title> 
+<title>light</title> 
 </head>
 <body>
 	
@@ -21,7 +21,7 @@ function changeImage()
 }
 </script>
 <img id="myimage" onclick="changeImage()" src="/images/pic_bulboff.gif" width="100" height="180">
-<p>点击灯泡就可以打开或关闭这盏灯</p>
+<p>Click the light.</p>
 	
 </body>
 </html>
