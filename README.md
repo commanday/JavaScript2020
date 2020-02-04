@@ -20,5 +20,5 @@ JS：https://www.runoob.com/try/try.php?filename=tryjs_events
 ## others
 *This page was written by* __Markdown__.
 
-__URL:https://github.com/commanday/cpp2020__
+__URL:https://github.com/commanday/javascript2020/tree/master__
 
