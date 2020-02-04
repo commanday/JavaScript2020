@@ -6,7 +6,7 @@
 </head>
 <body>
 
-<p id="demo">单击按钮显示1970年1月1号至今的毫秒数。</p>
+<p id="demo">Click the button to display the number of milliseconds since January 1, 1970</p>
 <button onclick="myFunction()">Click me</button>
 <script>
 function myFunction(){
