@@ -11,7 +11,6 @@
 **What's your job?**
 
 *JavaScript is a popular language.Let's maintain it together and make it more perfect!*
-***
 
 ## compilers
 
