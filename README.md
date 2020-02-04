@@ -15,7 +15,7 @@
 
 ## compilers
 
-https://www.runoob.com/try/try.php?filename=tryjs_alert
+JS：https://www.runoob.com/try/try.php?filename=tryjs_alert
 
 ## others
 *This page was written by* __Markdown__.
