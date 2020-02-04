@@ -16,7 +16,16 @@
 
 JS：https://www.runoob.com/try/try.php?filename=tryjs_alert
 
-## others
+## others(1)
 *This page was written by* __Markdown__.
 
 __URL:https://github.com/commanday/javascript2020/tree/master__
+
+## others(2)
+__Author:__
+
+*commanday*
+
+__contributor:__
+
+*______*,*______*,*______*
