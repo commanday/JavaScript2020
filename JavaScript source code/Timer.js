@@ -1,30 +1,36 @@
 <!DOCTYPE html>
 <html>
-<head>
-<meta charset="utf-8">
-<title>菜鸟教程(runoob.com)</title>
+<head> 
+<meta charset="utf-8"> 
+<title>菜鸟教程(runoob.com)</title> 
 <script>
-function startTime(){
-    var today=new Date();
-    var h=today.getHours();
-    var m=today.getMinutes();
-    var s=today.getSeconds();
-    m=checkTime(m);
-    s=checkTime(s);
-    document.getElementById('txt').innerHTML=h+":"+m+":"+s;
-    t=setTimeout(function(){startTime()},500);
+var c=0;
+var t;
+var timer_is_on=0;
+function timedCount(){
+    document.getElementById('txt').value=c;
+    c=c+1;
+    t=setTimeout(function(){timedCount()},1000);
 }
-function checkTime(i){
-    if (i<10){
-        i="0" + i;
+function doTimer(){
+    if (!timer_is_on){
+        timer_is_on=1;
+        timedCount();
     }
-    return i;
+}
+function stopCount(){
+    clearTimeout(t);
+    timer_is_on=0;
 }
 </script>
 </head>
-<body onload="startTime()">
+<body>
     
-<div id="txt"></div>
-    
+<form>
+<input type="button" value="start!" onclick="doTimer()" />
+<input type="text" id="txt" />
+<input type="button" value="stop!" onclick="stopCount()" />
+</form>
 </body>
+    
 </html>
