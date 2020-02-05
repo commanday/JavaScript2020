@@ -21,11 +21,7 @@ JS：https://www.runoob.com/try/try.php?filename=tryjs_alert
 
 __URL:https://github.com/commanday/javascript2020/tree/master__
 
-## Name list
-__Author:__
+## Author
 
 *commanday*
 
-__contributor:__
-
-*______*,*______*,*______*
