@@ -2,7 +2,7 @@
 <html>
 <head> 
 <meta charset="utf-8"> 
-<title>菜鸟教程(runoob.com)</title> 
+<title>timer</title> 
 <script>
 var c=0;
 var t;
