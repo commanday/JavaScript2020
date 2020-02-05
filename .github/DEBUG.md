@@ -5,4 +5,4 @@
 
 *update2:5/2/2020*
 ***
-__Bug:_
+__Bug:throw(or catch)__
