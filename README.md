@@ -14,8 +14,7 @@
 
 ## Compilers
 
-[JavaScript](https://www.runoob.com/try/try.ph
-?filename=tryjs_alert)
+[JavaScript](https://www.runoob.com/try/try.php?filename=tryjs_events)
 
 [html](https://c.runoob.com/front-end/61)
 
