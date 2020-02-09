@@ -1,4 +1,4 @@
-## javascript202
+## javascript20
 
 *A webpage for JS.*
 ## WELCOME!
