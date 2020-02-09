@@ -1,6 +1,6 @@
 ## javascript2020
 
-*A webpage for JS.*
+*A webpage for JavaScript.*
 ## WELCOME!
 **Here are the notes:**
 
