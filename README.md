@@ -27,4 +27,3 @@ __URL:https://github.com/commanday/javascript2020/tree/master__
 
 *commanday*
 
-
