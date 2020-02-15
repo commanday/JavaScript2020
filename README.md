@@ -18,7 +18,7 @@
 
 [html](https://c.runoob.com/front-end/61)
 
-## Other
+## Othe
 *This page was written by* __Markdown__.
 
 __URL:https://github.com/commanday/javascript2020/tree/master__
