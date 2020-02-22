@@ -27,6 +27,3 @@ __URL:https://github.com/commanday/javascript2020/tree/master__
 
 *commanday*
 
-fun (x: Int,y: Int): Int {
-   return x + y
-}
