@@ -26,7 +26,3 @@ __URL:https://github.com/commanday/javascript2020/tree/master__
 ## Author
 
 *commanday*
-
-ˋˋˋpython
-name
-ˋˋˋ
