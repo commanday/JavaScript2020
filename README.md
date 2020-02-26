@@ -1,3 +1,6 @@
+fun (x: Int, y: Int): Int {
+  return x + y
+}
 ## javascript2020
 *A webpage for JavaScript.*
 ## WELCOME!
