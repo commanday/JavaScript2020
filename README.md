@@ -1,3 +1,4 @@
+- [x] 已完成事项
 ## javascript2020
 *A webpage for JavaScript.*
 ## WELCOME!
