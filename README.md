@@ -12,4 +12,4 @@
 ## Other
 __URL:https://github.com/commanday/javascript2020/tree/master__
 ## Author
-*commanday*
+[commanday](https://github.com/commanday)
