@@ -1,4 +1,2 @@
-## Source codes
-notice:
-</br>
+## Notice:
 Can be used directly.
