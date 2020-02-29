@@ -1,2 +1,2 @@
-## Notice:
+## Notice
 Can be used directly.
