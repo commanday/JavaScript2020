@@ -5,7 +5,7 @@
 <title>confirm</title>
 </head>
 <body>
-<p>Click thos button</p>
+<p>Click this button</p>
 <button onclick="myFunction()">HI</button>
 <p id="demo"></p>
 <script>
