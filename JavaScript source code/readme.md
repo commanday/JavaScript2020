@@ -1,5 +1,5 @@
 ## Notice
 Can be used directly.
-```js
-<script>
-```
+mermaid
+graph LR
+    A[A] --> B[B] 
