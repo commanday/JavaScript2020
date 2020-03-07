@@ -16,6 +16,6 @@ __URL:https://github.com/commanday/javascript2020/tree/master__
 ## Menu
 [[Source code]](https://github.com/commanday/JavaScript2020/tree/master/JavaScript%20source%20code)
 [[Readme]](https://github.com/commanday/JavaScript2020/blob/master/README.md)
-[[Other]](https://github.com/commanday/cpp2020/tree/master/.github)
+[[Other]](https://github.com/commanday/JavaScript2020/tree/master/.github)
 [[compilers]](https://github.com/commanday/cpp2020/tree/master/compilers)
 
