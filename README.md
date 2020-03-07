@@ -5,7 +5,7 @@
 </br>
 *JavaScript (JS) is a lightweight interpreted programming language with first-class functions.Let's maintain it together and make it more perfect!*
 ## Menu
-[[Source code]](https://github.com/commanday/JavaScript2020/tree/master/JavaScript%20source%20code)
+[[Source codes]](https://github.com/commanday/JavaScript2020/tree/master/JavaScript%20source%20code)
 [[Readme]](https://github.com/commanday/JavaScript2020/blob/master/README.md)
 [[Other]](https://github.com/commanday/JavaScript2020/tree/master/.github)
 [[Compilers]](https://github.com/commanday/JavaScript2020/tree/master/Compilers)
