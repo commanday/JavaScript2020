@@ -10,11 +10,10 @@
 [[Other]](https://github.com/commanday/JavaScript2020/tree/master/.github)
 [[Compilers]](https://github.com/commanday/JavaScript2020/tree/master/Compilers)
 ## Compilers
-| compiler | URL |
+| Compiler | URL |
 | ------ | ------ |
 | [JS](https://www.runoob.com/try/try.php?filename=tryjs_events) | https://www.runoob.com/try/try.php?filename=tryjs_events |
-| [html](https://c.runoob.com/front-end/61) | https://c.runoob.com/front-end/61 |
+| [HTML](https://c.runoob.com/front-end/61) | https://c.runoob.com/front-end/61 |
 ## Other
+__Author:[commanday](https://github.com/commanday)__
 __URL:https://github.com/commanday/javascript2020/tree/master__
-## Author
-[commanday](https://github.com/commanday)
