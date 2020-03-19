@@ -7,6 +7,6 @@
 
 *update2:8/2/2020*
 ***
-__Bug:throw(or catch)__
+__Bug:throw(or catch)(solved)__
 
-__Bug:optimzie__
+__Bug:optimzie(solved)__
